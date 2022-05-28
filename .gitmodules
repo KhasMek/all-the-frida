@@ -1,0 +1,12 @@
+[submodule "interference-security_frida-scripts"]
+	path = interference-security_frida-scripts
+	url = https://github.com/interference-security/frida-scripts
+[submodule "iddoeldor_frida-snippets"]
+	path = iddoeldor_frida-snippets
+	url = https://github.com/iddoeldor/frida-snippets
+[submodule "trelis24_frida-ios"]
+	path = trelis24_frida-ios
+	url = https://github.com/trelis24/frida-ios
+[submodule "0xdea_frida-scripts"]
+	path = 0xdea_frida-scripts
+	url = https://github.com/0xdea/frida-scripts
